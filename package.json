@@ -1,0 +1,25 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "app to synchronize methods in tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhaferdhib/fetch-in-tests.git"
+  },
+  "keywords": [
+    "test",
+    "method",
+    "nodejs",
+    "angularjs"
+  ],
+  "author": "Dhafer Dhib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhaferdhib/fetch-in-tests/issues"
+  },
+  "homepage": "https://github.com/Dhaferdhib/fetch-in-tests#readme"
+}
